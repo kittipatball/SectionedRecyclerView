@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="cartoon_names">
+    <item>Tower of god</item>
+    <item>Dice</item>
+    <item>Noblesse</item>
+    <item>Minions</item>
+    </string-array>
+
+    <string-array name="sport_names">
+        <item>Football</item>
+        <item>Basketball</item>
+        <item>Tennis</item>
+        <item>Baseball</item>
+    </string-array>
+
+    <string-array name="game_names">
+        <item>Pokemon GO</item>
+        <item>Dota 2</item>
+        <item>Cookies Run</item>
+        <item>Tab On Titan</item>
+    </string-array>
+
+</resources>
