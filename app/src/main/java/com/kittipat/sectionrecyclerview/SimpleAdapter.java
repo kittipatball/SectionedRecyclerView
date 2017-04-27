@@ -9,10 +9,6 @@ import java.util.ArrayList;
 
 import io.github.luizgrp.sectionedrecyclerviewadapter.StatelessSection;
 
-/**
- * Created by gissoft95_hp on 27-Jan-17.
- */
-
 public class SimpleAdapter extends StatelessSection {
 
     private ArrayList<String> arrName = new ArrayList<>();
